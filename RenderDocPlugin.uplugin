@@ -8,7 +8,7 @@
 	"CreatedByURL" : "https://github.com/Temaran",
 	"EngineVersion" : 1579795,
 	"Description" : "RenderDoc graphics debugger/profiler integration.",
-	"Category" : "Debugging.Rendering",
+	"Category" : "RealGameLab",
 	"EnabledByDefault" : false,
 
 	"Modules" :
