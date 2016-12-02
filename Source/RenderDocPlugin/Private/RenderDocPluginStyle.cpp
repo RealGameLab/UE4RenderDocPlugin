@@ -22,8 +22,6 @@
 * THE SOFTWARE.
 ******************************************************************************/
 
-#include "RenderDocPluginPrivatePCH.h"
-
 #if WITH_EDITOR
 
 #include "RenderDocPluginStyle.h"

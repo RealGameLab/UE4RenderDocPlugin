@@ -22,7 +22,6 @@
 * THE SOFTWARE.
 ******************************************************************************/
 
-#include "RenderDocPluginPrivatePCH.h"
 #include "RenderDocPluginModule.h"
 
 #include "Internationalization.h"

@@ -23,13 +23,16 @@
 * THE SOFTWARE.
 ******************************************************************************/
 
-#include "RenderDocPluginPrivatePCH.h"
 #include "RenderDocPluginLoader.h"
 #include "RenderDocPluginModule.h"
 
 #include "Internationalization.h"
 
 #include "Developer/DesktopPlatform/public/DesktopPlatformModule.h"
+
+#include "AllowWindowsPlatformTypes.h"
+#include <windows.h>
+#include "HideWindowsPlatformTypes.h"
 
 #define LOCTEXT_NAMESPACE "RenderDocLoaderPluginNamespace" 
 
